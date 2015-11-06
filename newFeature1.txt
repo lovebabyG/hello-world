@@ -1,4 +1,9 @@
 new feature 1
 new feature 2
+<<<<<<< HEAD
 new feature 2
 new feature 2
+=======
+
+local1
+>>>>>>> new feature 1
